@@ -2,9 +2,6 @@
 
 Welcome to my GitHub profile! 🌟
 
-## GitHub Stats
-![w7en's GitHub stats](https://github-readme-stats.vercel.app/api?username=w7en&show_icons=true&theme=cobalt)
-
 ## Connect with me
 - [X](https://x.com/wyen91)
 
